@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "496fb53c-7699-46a1-9153-7fc909f20890": {
+      "ProjectGuid": "496fb53c-7699-46a1-9153-7fc909f20890",
+      "DisplayName": "RPG",
+      "ColorIndex": 0
+    },
+    "50859495-6294-4b05-b3a7-2ad50d34a589": {
+      "ProjectGuid": "50859495-6294-4b05-b3a7-2ad50d34a589",
+      "DisplayName": "RPG",
+      "ColorIndex": 1
+    },
+    "05408811-6640-492b-ac74-ee467a146e28": {
+      "ProjectGuid": "05408811-6640-492b-ac74-ee467a146e28",
+      "DisplayName": "RPG",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
